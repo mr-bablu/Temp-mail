@@ -20,7 +20,7 @@
 
 `chmod +x *`
 
-`node temp.js -u <username>`
+`node temp.js -u username`
 
 ### screenshot
  <img src="https://rawcdn.githack.com/Manzoorahmed76/Temp-mail/1b0d894d9a3a2ef5b27c1748f039e33f7956bfa8/Screenshot_20240313-184335_1.jpg">
