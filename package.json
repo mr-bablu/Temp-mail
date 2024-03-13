@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/princekrvert/Temp-mail.git"
+    "url": "git+https://github.com/mr-bablu/Temp-mail.git"
   },
   "keywords": [
     "temp-mail",
@@ -17,12 +17,12 @@
     "fake-mail",
     "princkrvert"
   ],
-  "author": "Prince Kumar",
+  "author": "Manzoor Ahmed",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/princekrvert/Temp-mail/issues"
+    "url": "https://github.com/mr-bablu/Temp-mail/issues"
   },
-  "homepage": "https://github.com/princekrvert/Temp-mail#readme",
+  "homepage": "https://github.com/mr-bablu/Temp-mail#readme",
   "dependencies": {
     "axios": "^0.24.0",
     "commander": "^10.0.1",
