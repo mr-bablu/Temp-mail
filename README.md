@@ -4,7 +4,7 @@
 <p>
 <a href="https://img.shields.io/badge/Mr-BaBlU-green" ><img  src="https://img.shields.io/badge/Mr-BaBlU-green"></a>  <a href="#" ><img  src="https://img.shields.io/badge/TEMP-MAIL-red"></a>  <a href="#"><img src="https://img.shields.io/badge/MADE%20IN%20-NODE-yellow"></a></p>
 
-![20220102_164132](https://user-images.githubusercontent.com/56459297/147874107-16f87388-f3e2-44bc-acd3-0c183197a48c.jpg)
+![20220102_164132](https://rawcdn.githack.com/Manzoorahmed76/Temp-mail/1b0d894d9a3a2ef5b27c1748f039e33f7956bfa8/images%20(2).jpeg)
 
 ## Termux installation 
 `apt update && apt upgrade`
@@ -23,7 +23,7 @@
 `node temp.js -u <username>`
 
 ### screenshot
- <img src="https://user-images.githubusercontent.com/56459297/147874707-c8ddb798-c9b0-4143-ae2f-d8313d2cb53c.jpg">
+ <img src="https://rawcdn.githack.com/Manzoorahmed76/Temp-mail/1b0d894d9a3a2ef5b27c1748f039e33f7956bfa8/Screenshot_20240313-184335_1.jpg">
  
  ### social media 
  <a href="https://www.instagram.com/manzoor__ahmed07?igsh=YnJlM3JnM3M3NzJo"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
