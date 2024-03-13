@@ -26,5 +26,5 @@
  <img src="https://user-images.githubusercontent.com/56459297/147874707-c8ddb798-c9b0-4143-ae2f-d8313d2cb53c.jpg">
  
  ### social media 
- <a href="https://www.instagram.com/princekrvert/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="https://www.instagram.com/manzoor__ahmed07?igsh=YnJlM3JnM3M3NzJo"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="[[[[https://www.facebook.com/profile.php?id=100049290452298](https://www.facebook.com/profile.php?id=100049290452298)](https://www.facebook.com/profile.php?id=100049290452298)](https://www.facebook.com/profile.php?id=100049290452298)](https://www.facebook.com/profile.php?id=100049290452298)" > <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" ></a>
