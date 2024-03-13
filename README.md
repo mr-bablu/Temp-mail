@@ -7,20 +7,20 @@
 ![20220102_164132](https://user-images.githubusercontent.com/56459297/147874107-16f87388-f3e2-44bc-acd3-0c183197a48c.jpg)
 
 ## Termux installation 
-*`apt update && apt upgrade`
+`apt update && apt upgrade`
 
-*`pkg install nodejs-lts`
+`pkg install nodejs-lts`
 
-*`git clone https://github.com/princekrvert/Temp-mail.git`
+`git clone https://github.com/princekrvert/Temp-mail.git`
 
-*`cd Temp-mail`
+`cd Temp-mail`
 
 
-*`npm install `
+`npm install `
 
-*`chmod +x *`
+`chmod +x *`
 
-*`node temp.js -u <username>`
+`node temp.js -u <username>`
 
 ### screenshot
  <img src="https://user-images.githubusercontent.com/56459297/147874707-c8ddb798-c9b0-4143-ae2f-d8313d2cb53c.jpg">
