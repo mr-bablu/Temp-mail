@@ -34,13 +34,14 @@ function help(){
 // make nice little banner 
 function banner(){
     process.stdout.write(`
-   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-   █▄▄░▄▄█░▄▄█░▄▀▄░█▀▄▄▀████░▄▀▄░█░▄▄▀██▄██░█
-   ███░███░▄▄█░█▄█░█░▀▀░█▄▄█░█▄█░█░▀▀░██░▄█░█
-   ███░███▄▄▄█▄███▄█░███████▄███▄█▄██▄█▄▄▄█▄▄
-   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+    ╭───────── [ By Manzoor Ahmed ] ─────────╮
+    │ ╔╦╗┏┓┳┳┓┏┓  ╔╦╗┏┓┳┓                    │
+    │  ║ ┣ ┃┃┃┃┃  ║║║┣┫┃┃  Mode By Mr,BaBlU  │
+    │  ╩ ┗┛┛ ┗┣┛  ╩ ╩┛┗┻┗┛                   │
+    │                                        │
+    ╰─── [ Telegram Channel @Mr_Bablu07 ] ───╯
     `);
-    console.log("\033[33;1m \t\t MADE BY PRINCE ");
+    console.log("\033[33;1m \t\t MADE BY @MrBabluJ ");
 }
 // now make a empty container for the available server option 
 let avlDomain = [];
